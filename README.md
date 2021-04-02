@@ -9,8 +9,8 @@ Dynamic Time Warping (DTW) is an algorithm to compare the similarity between two
 3. Run it!
 
 <h2>Credits</h2>
-- EZEKIEL ONG YOUNG
-- SEE KE XIN
-- THET THET WAI
-- LEE WEI YUAN
-- YUEN ZHI AN
+* EZEKIEL ONG YOUNG
+* SEE KE XIN
+* THET THET WAI
+* LEE WEI YUAN
+* YUEN ZHI AN
